@@ -190,7 +190,6 @@ while True:
         break;
 
     tick(30)
-    print(enemyHealth)
 
 pygame.mixer.music.stop()
 if playerHealth is 0:
