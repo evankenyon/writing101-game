@@ -2,7 +2,7 @@
 
 # Documentation at www.github.com/stevepaget/pygame_functions
 # Report bugs at https://github.com/StevePaget/Pygame_Functions/issues
-
+# Library created by Steve Paget @ https://github.com/stevepaget
 
 import pygame, math, sys, os
 
